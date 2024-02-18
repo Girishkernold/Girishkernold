@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Girishkernold
-- 👀 I’m interested in UI & UX designing and 
-- 🌱 I’m currently learning Git and IoT
-- 💞️ I’m looking to collaborate on App designing
+- 👀 I’m interested in UI & UX and web designing
+- 🌱 I’m currently learning Frontend technologies
+- 💞️ I’m looking to collaborate on web designing and User Interface
 - 📫 How to reach me > girishpetla112@gmail.com
 
 <!---
