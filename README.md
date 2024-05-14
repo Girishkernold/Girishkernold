@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Girish petla
-- 👀 CSE Graduate 2024
+- 👀 CSE Graduate 2024, from Visakhapatnam
 - 🌱 Front-end developer and UI/UX enthusiast
 - 📫 girishpetla112@gmail.com
